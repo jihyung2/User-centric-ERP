@@ -1,0 +1,2 @@
+터미널에 설치하고 실행하기
+pip install git+https://github.com/eventsim/pyevsim.git
