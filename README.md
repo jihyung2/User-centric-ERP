@@ -1,4 +1,4 @@
-# Simulation_Engine_for_Web-Based_Simulation_Environments
+# User-centric-ERP SW
 
 **팀 구성** 
 - 팀장 : 한밭대학교  이지형
